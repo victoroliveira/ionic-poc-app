@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "508856676712",
+    "project_id": "local-pay-now-mobile",
+    "storage_bucket": "local-pay-now-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508856676712:android:705e84c1b7282553b8e6dd",
+        "android_client_info": {
+          "package_name": "com.local.paynow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508856676712-293kaciji6av06pv42tshmupqus8rtur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtgpwJyfMgROIIhPGedVVoz4XVlV7LXCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508856676712-293kaciji6av06pv42tshmupqus8rtur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508856676712:android:35b4a5a4a40aa4b8b8e6dd",
+        "android_client_info": {
+          "package_name": "local.pay_now_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508856676712-293kaciji6av06pv42tshmupqus8rtur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtgpwJyfMgROIIhPGedVVoz4XVlV7LXCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508856676712-293kaciji6av06pv42tshmupqus8rtur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
