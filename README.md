@@ -2,7 +2,7 @@
 Ionic dummy application to test funtionalities
 
 Funtionalities:
-- Push notification
+- Push notifications
 - Open URL on Browser
 
 ## How to run
